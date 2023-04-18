@@ -7,7 +7,7 @@ headerImage: false
 tag:
 - Streamlit
 - Python
-- web application
+- web
 category: blog
 author: qqmath
 description: Unusual spirals and beauty of Streamlit
