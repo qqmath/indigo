@@ -14,6 +14,8 @@ description: Unusual spirals and beauty of Streamlit
 ---
 
 ## Summary
-Archimedean spiral, hyperbolic spiral, logarithmic spiral and few others, such as Cornu spiral and lituus are fairly famous. But how about the  'spiriling' cardioid? This web app shows new spirals in an interactive way, so anyone can ajust the parameters to their liking.
+Archimedean spiral, hyperbolic spiral, logarithmic spiral and few others, such as Cornu spiral and lituus are fairly famous. But how about the  'spiriling' cardioid? My web app shows new types of spirals in an interactive way, so anyone can ajust the parameters to their liking.
+
+{% highlight html %}
 https://qqmath-streamlit-example-streamlit-app-9u97xl.streamlit.app
 <a href='https://qqmath-streamlit-example-streamlit-app-9u97xl.streamlit.app/'>
