@@ -19,4 +19,4 @@ Archimedean spiral, hyperbolic spiral, logarithmic spiral and few others, such a
 {% highlight html %}
 
 https://qqmath-streamlit-example-streamlit-app-9u97xl.streamlit.app
-<a href='https://qqmath-streamlit-example-streamlit-app-9u97xl.streamlit.app/'>
+<a href= "https://qqmath-streamlit-example-streamlit-app-9u97xl.streamlit.app/" target="_blank">Try it yourself</a>
