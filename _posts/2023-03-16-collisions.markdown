@@ -1,5 +1,5 @@
 ---
-title: "Unusual spirals and beauty of Streamlit"
+title: "Motor vehicle collisions in Canada"
 layout: post
 date: 2023-03-16 06:48
 image: /assets/images/markdown.jpg
@@ -8,9 +8,10 @@ tag:
 - Streamlit
 - Python
 - web
+- Data Science
 category: blog
 author: qqmath
-description: Unusual spirals and beauty of Streamlit
+description: Analysis of motor vehicle collisions data provided by Canadian government
 ---
 
 ## Summary
