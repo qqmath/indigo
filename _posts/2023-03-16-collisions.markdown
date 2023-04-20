@@ -13,6 +13,7 @@ tag:
 - numpy
 - pydeck
 - plotly
+- project
 category: blog
 author: qqmath
 description: Analysis of motor vehicle collisions data provided by Canadian government
