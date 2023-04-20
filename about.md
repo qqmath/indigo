@@ -19,7 +19,8 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/qqmath/ml-visuals">ML-visuals</a></li>
-	<li><a href="https://github.com/qqmath/streamlit-spirals">Streamlit/Altair visuals</a></li>
-	<li><a href="https://github.com/qqmath/kuramoto">Kuramoto model suggestions</a></li>
+	<li><a href="https://github.com/qqmath/ml-visuals">ML-visuals project</a></li>
+	<li><a href="https://github.com/qqmath/streamlit-spirals">Streamlit/Altair for data visualization</a></li>
+	<li><a href="https://github.com/qqmath/mean-housing">Data analysis for housing</a></li>
+	<li><a href="https://github.com/qqmath/K-means-segmenting-customers">K means segmenting customers model</a></li>
 </ul>
